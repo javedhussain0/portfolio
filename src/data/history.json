@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web developer intern",
+    "organization": "Code Alpha",
+    "startDate": "May, 2024",
+    "endDate": "Aug , 2024",
+    "experiences": ["Open-Library", "Music PLayer" ," Myntra Clone"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Web developer intern",
+    "organization": "Systemic Altruism",
+    "startDate": "Aug, 2024",
+    "endDate": "Nov , 2024",
+    "experiences": ["MERN Stack", "FERN Stack" ],
+    "imageSrc": "history/google.png"
+  }
+]

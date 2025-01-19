@@ -1,0 +1,57 @@
+@import "../../vars.css";
+.container{
+    margin: 20px ;
+    padding: 10ox;
+}
+.main-heading{
+    color: whitesmoke;
+    font-size: 35px !important;
+    font-weight: 700;
+    margin: 15px;
+    text-transform: uppercase;
+    margin-left: 100px;
+}
+.image-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+
+}
+.image-style{
+    width: 90%;
+    height: 400px !important;
+    border-radius: 10%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.heading{
+    color: whitesmoke;
+    font-size: 25px !important;
+    font-weight: 700;
+    margin: 15px;
+    text-transform: uppercase;
+    border-bottom: 1px solid whitesmoke;
+
+    
+
+}
+.peragraph{
+    color: whitesmoke;
+    font-size: 15px !important;
+    font-weight: 700;
+    margin: 15px;
+    border-bottom: 1px solid whitesmoke;
+
+
+}
+.platform{
+    color: whitesmoke;
+    font-size: 20px !important;
+    font-weight: 700;
+    margin: 15px;
+    text-transform: uppercase;
+    border-bottom: 1px solid whitesmoke;
+    padding-bottom: 5px;
+}
