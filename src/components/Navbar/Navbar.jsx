@@ -8,7 +8,7 @@ export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const handleDownload = () => {
-    window.open(Resume, "Javed_Resume");
+    window.open(Resume, "Resume");
   };
 
   return (
